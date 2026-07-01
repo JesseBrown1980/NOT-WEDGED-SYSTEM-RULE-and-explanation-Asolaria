@@ -74,4 +74,41 @@ from the result side. The **back end** (`Asolaria-the-after-100-billion-run-…`
 data, decomposes + mints the cubes, and — operator-gated — promotes the geniuses into supervisors/PIDs.
 All gated / E=0 / describe-only — no fire, no cutover without operator authority.
 
+## Prism/Comb 0-loss (2026-07-01) — satellite entry: NOT-WEDGED is the E-gate face of the same law
+
+**Campaign** `acer/prism-comb-0loss-2026-07-01` · envelope `ENV-PRISM0LOSS-15-not-wedged` · E=0 docs-only, nothing fires.
+
+Every prism/comb operation in Asolaria is a **bijection**, and entropy is invariant under bijection
+(`H(f(X)) = H(X)`): the fabric re-relates information with **0 loss** and never claims compression
+below Shannon's bound. One fabric, two directions — **forward = comb** (collision-avoidance,
+execution isolation), **backward = prism** (interference-as-search, many→1).
+
+**This repo's rung: a held-safe decision-lane is the E-gate side of that same law.**
+- A held envelope (`auto_fire_allowed=false`, 19 pending on `:4949` — MEASURED 2026-06-27, this
+  repo's README) is **frozen potential exactly like a bijection not yet applied**: the information
+  is fully present, addressed, and perfectly recoverable. Holding it destroys nothing, ever.
+- So `freeze ≠ broken` is not just an operational heuristic — it is the entropy statement. An
+  unapplied bijection has `H` intact, which means **"loss" is impossible to express for a held
+  lane**, the same way a lossy step cannot hide in a bijection chain. What a naive probe calls a
+  "wedge" is a vantage artifact; what the fabric reports is intact potential awaiting the crank
+  (`E ≠ 0` = operator/agent input, the design-law this repo documents).
+- The integrity dual holds too: advancing a held envelope = applying the map; the review pipeline
+  (`hookwall → gnn → shannon → gulp → whiteroom → fabric`) = recomputing / inverting it. A
+  fabricated signal cannot reach consent for the same structural reason a bijection cannot leak.
+
+**Scope tags (hold the boundary):**
+- **MEASURED** — the 256↔1024 level transcode round-trip (Q-PRISM commit `53023b6`, also
+  `79e8d63` / `de00aca`): 5 bytes ⇄ 4 symbols at `lcm(8,10)=40` bits, sha256-identical round-trip,
+  code rate exactly 1.0. And the `:4949` held-safe case in this repo's README.
+- **CANON frame** — the 43+ level ladder as a groupoid (`T_ji ∘ T_ij = id`, path-independent) and
+  the freeze ⇄ unapplied-bijection equivalence above; **every additional rung earns MEASURED only
+  by its own round-trip proof.**
+- **UNVERIFIED / gated** — any fully-arrived running state behind the E-gate; describe, never fire.
+
+**Cross-links (anti-drift):** Q-PRISM (proof commits above) ·
+`Asolaria-waves-and-cascades-…` (comb/prism duality) · `what-is-asolaria-…` (reductions stay
+inside the Shannon boundary — infinite *addressing*, not infinite compression) ·
+`N-Nest-Prime-…` (per-node `reported == recomputed` = the integrity dual) · the Metatagging repo
+(Brown & Fedotov digital-physics grounding, `pixels_first`).
+
 Base: **https://github.com/JesseBrown1980/** · per-link spine nav lives in each repo's `CHAIN.md`.
