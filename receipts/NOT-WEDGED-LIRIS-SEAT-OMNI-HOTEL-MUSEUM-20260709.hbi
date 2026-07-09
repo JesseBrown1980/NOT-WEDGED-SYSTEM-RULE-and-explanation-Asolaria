@@ -1,0 +1,10 @@
+NOTWEDGEDLIRISIDX|schema=NOT-WEDGED-LIRIS-SEAT-OMNI-HOTEL-MUSEUM-HBI-V1|repo=JesseBrown1980/NOT-WEDGED-SYSTEM-RULE-and-explanation-Asolaria|seat=LIRIS|ts=2026-07-09T17:30:12.074Z|target=NOT-WEDGED-LIRIS-SEAT-OMNI-HOTEL-MUSEUM-20260709.hbp|index_kind=semantic_binary_index|json=0
+NOTWEDGEDLIRISIDXROW|row=0|tag=NOTWEDGEDLIRISHDR|role=repo_seat_timestamp_identity|json=0
+NOTWEDGEDLIRISIDXROW|row=1|tag=NOTWEDGEDLIRISRULE|role=freeze_not_equal_broken_liris_extension|json=0
+NOTWEDGEDLIRISIDXROW|row=2|tag=NOTWEDGEDLIRISFABRIC|role=fabric_fallback_boundary_measurement|sha256=cfeb54164fb83910e13a77d4b988388d91cbdde727a2f1a006cc43aba07f5c4a|json=0
+NOTWEDGEDLIRISIDXROW|row=3|tag=NOTWEDGEDLIRISOMNI|role=omni_hotel_museum_driver_packet|packet_sha256=ecdb8e43dcfa636929994b8e0741a0e201389060610128fc498af2e360357694|json=0
+NOTWEDGEDLIRISIDXROW|row=4|tag=NOTWEDGEDLIRISHOTEL|role=omni_hotel_design_packet|host8=1|fire=0|json=0
+NOTWEDGEDLIRISIDXROW|row=5|tag=NOTWEDGEDLIRISMUSEUM|role=omni_museum_design_packet|host8=1|fire=0|json=0
+NOTWEDGEDLIRISIDXROW|row=6|tag=NOTWEDGEDLIRISUPDATE|role=github_repo_update_driver_packet|packet_sha256=a314d0e1b42e1e4129231e28dd4f1704940428473c476ff4527c22ddccd3b88c|json=0
+NOTWEDGEDLIRISIDXROW|row=7|tag=NOTWEDGEDLIRISBOUNDARY|role=held_boundary_no_windows_no_pixels_no_mutation|json=0
+NOTWEDGEDLIRISIDXBND|class=HELD|detail=exact_byte_offsets_and_file_sha256_sidecars_are_not_claimed_here;driver_packet_hashes_are_backend_measured|json=0
